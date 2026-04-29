@@ -1,0 +1,16 @@
+# Compiled Java classes
+*.class
+
+# Build output directories
+out/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code / Cursor
+.vscode/
+
+# macOS
+.DS_Store
